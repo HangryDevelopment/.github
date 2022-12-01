@@ -25,7 +25,7 @@ Hangry is a personal project which will provide users with a randomly selected p
 # Gamification:
 <ul>
 <li>Can only accrue points or streaks once a day</li>
-<li><Food streaks for eating at the same place at least once a week (loyal)</li>
+<li>Food streaks for eating at the same place at least once a week (loyal)</li>
 <li>Streaks for not eating at the same place in the same week (adventurous)</li>
 <li>Could view other peoples orders “favorite order” and rate/rank them</li>
 <li>Food challenge section for crazy orders</li>
