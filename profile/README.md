@@ -3,6 +3,8 @@ Hangry is a personal project which will provide users with a randomly selected p
 
 https://hangrydevelopment.github.io/HangryFrontend/
 
+CORS Anywhere: https://cors-anywhere.herokuapp.com/corsdemo
+
 # Stories:
 <ul>
 <li>As a VISITOR I should see a landing page with a sign up option</li>
