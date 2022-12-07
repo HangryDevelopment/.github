@@ -1,5 +1,5 @@
 # Hangry
-Hangry is a personal project which will provide users with a randomly selected place to eat based on their location and some other parameters.
+Hangry is a solo-project SPA that serves as a magic 8-ball for users to find a place to eat based on the entered location. The frontend is built on HTML, CSS, Bootstrap, and React using the Yelp Fusion API and the backend is built on Spring Boot using AWS.
 
 Live site: https://hangrydevelopment.github.io/HangryFrontend/
 
