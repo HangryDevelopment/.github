@@ -1,7 +1,7 @@
 # Hangry
 Hangry is a personal project which will provide users with a randomly selected place to eat based on their location and some other parameters.
 
-https://hangrydevelopment.github.io/HangryFrontend/
+Live site: https://hangrydevelopment.github.io/HangryFrontend/
 
 CORS Anywhere: https://cors-anywhere.herokuapp.com/corsdemo
 
