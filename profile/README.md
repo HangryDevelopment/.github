@@ -1,5 +1,5 @@
 # Hangry
-Hangry is a solo-project SPA that serves as a magic 8-ball for users to find a place to eat based on the entered location. The frontend is built on HTML, CSS, Bootstrap, and React using the Yelp Fusion API and the backend is built on Spring Boot using AWS.
+Hangry is a solo-project SPA that serves as a magic 8-ball for users to find a place to eat based on the entered location. The frontend is built on HTML, CSS, Bootstrap, and React. The backend is built on Spring Boot using AWS and the Yelp Fusion API.
 
 Live site: https://hangrydevelopment.github.io/HangryFrontend/
 
