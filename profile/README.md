@@ -3,4 +3,4 @@ Hangry is a solo-project SPA that serves as a magic 8-ball for users to find a p
 
 Live site: https://www.hangry.tk/
 
-(due to SSL issues Hangry will not actually work, if you'd like to see a working demo please let me know! Working on a solution.)
+(due to SSL issues the Hangry back-end is being hosted on glitch, the server takes some time to spin up.)
